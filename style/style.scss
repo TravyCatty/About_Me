@@ -11,7 +11,7 @@
     background: #202020;
 }
 .container {
-    min-width: 382px;
+    min-width: 340px;
     text-align: center;
     color: #fff;
     h1 {
@@ -78,11 +78,6 @@
                     color: red;
                 }
             }
-        }
-    }
-    @media (max-width: 425px) {
-        .links {
-            max-width: 340px;
         }
     }
 }
