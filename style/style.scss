@@ -80,4 +80,9 @@
             }
         }
     }
+    @media (max-width: 320px) {
+        .links{
+            max-width: 340px;
+        }
+    }
 }

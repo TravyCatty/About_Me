@@ -109,4 +109,10 @@
 .container .links .item img:hover {
   color: red;
 }
+
+@media (max-width: 320px) {
+  .container .links {
+    max-width: 340px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
